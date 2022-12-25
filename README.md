@@ -79,4 +79,7 @@
 <a href="https://github.com/moustf/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=moustf&repo=GeekSchool" />
 </a>
+<a href="https://github.com/moustf/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=moustf&repo=DSandAlgos" />
+</a>
 </section>
