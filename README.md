@@ -20,7 +20,7 @@
   <h2>Hi 👋</h2>
   <br />
   <br />
-  <h5> I'm Mustafa Salem, a passionate software developer!</h5>
+  <h5> I'm Mustafa Salem, a passionate web developer!</h5>
   <h5> I'm a GazaSkyGeeks Coding Foundations and Code Academy BootCamps Graduate. </h5>
   <h5> I'm also a senior Technological Management student at University College of Applied Science in Palestine, Gaza. </h5>
   <h5> I love writing code and analysing systems. </h5>
