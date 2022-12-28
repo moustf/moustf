@@ -9,7 +9,7 @@
   <code><a href="https://www.linkedin.com/in/moustff/" title="lindedin profile" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJizK-O7rjmwzro2mvul2xv-Uw1AuPEQajqA&usqp=CAU" width="32" alt="linkedin logo"> Linkedin Profile</a></code>
   <code><a href="https://www.github.com/moustf/" title="github profile" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8JHP_ZU-606Tcj8clDo0chONPuvAgQsV2UA&usqp=CAU" width="32" alt="github logo"> GitHub Profile</a></code>
   <code><a href="https://twitter.com/Haz7za" title="twitter profile" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe3XUSB4txz475LB3ScFIimaTX7FjA4zx8BA&usqp=CAU" width="32" alt="twitter logo"> Twitter Profile</a></code>
-  <code><a href="https://www.reddit.com/user/mossstaf" title="reddit profile" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_EGbXBCYBM8FGqvwwt1z1Wfa5pLHxAlylqQ&usqp=CAU" width="32" alt="reddit logo"> Reddit Profile</a></code>
+  <code><a href="https://www.reddit.com/user/moustff" title="reddit profile" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_EGbXBCYBM8FGqvwwt1z1Wfa5pLHxAlylqQ&usqp=CAU" width="32" alt="reddit logo"> Reddit Profile</a></code>
 <section></strong>
   
 <br />
